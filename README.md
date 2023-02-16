@@ -24,7 +24,7 @@ Extract it to a directory, and now open a command prompt and run the following c
 ```
 cd {PATH OF chatgpt-unofficial-api FOLDER}
 pip install playwright
-playwright install
+pip install -r requirements.txt
 python server.py
 ```
 
